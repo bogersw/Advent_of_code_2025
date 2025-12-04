@@ -60,7 +60,7 @@ func processBank(bank string) int {
 // PART TWO
 // ############################################################################
 
-// porcessBank2 parses the specified bank string to repeatedly find the largest
+// processBank2 parses the specified bank string to repeatedly find the largest
 // possible digit in a substring until twelve digits are found.
 func processBank2(bank string) int {
     digits := strings.Split(bank, "")
@@ -105,7 +105,7 @@ func main() {
 	fmt.Printf("The total output joltage is: %d\n", totalJoltage)
 
 	// ############################################################################
-	// PART ONE
+	// PART TWO
 	// ############################################################################
 	totalJoltage = 0
 	for _, bank := range banks {
