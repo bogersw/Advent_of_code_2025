@@ -2,7 +2,10 @@
 
 This repository contains my solutions for the programming challenges in Advent of Code 2025. See
 [https://adventofcode.com/](https://adventofcode.com/). I will post my solutions here but not the problem descriptions
-themselves because of copyright / intellectual property concerns. However, with each solution I will post a link to the
-problem description on the Advent of Code site, so it's easy to look up.
+themselves because of copyright / intellectual property concerns. However, with each solution I 
+will post a link to the problem description on the Advent of Code site, so it's easy to look up.
 
 I use Go as my programming language for the challenges.
+
+This year I completed the first 8 days and the first part of day 9. Maybe I'll complete more 
+later (or at least try to...).
